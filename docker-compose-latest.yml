@@ -1,0 +1,7 @@
+version: '3'
+services:
+  consumer-service:
+    image: "alperunal92/rabbitmq-mail-consumer-server:latest"
+    env_file: .env
+    ports:
+      - "5000:5000"
