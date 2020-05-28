@@ -5,10 +5,9 @@ Rabbitmq-mail-consumer-server is an independent mail sending server that abstrac
 > Sending mail is abstracted from the whole system. You don't have to think.
 
 
-
-
 ### RabbitMQ Basic Architecture System
 ![picture](https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/1.png)
+
 Rabbitmq-mail-consumer-server uses a number of open source projects to work properly:
 
 
