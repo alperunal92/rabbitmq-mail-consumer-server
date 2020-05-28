@@ -8,7 +8,7 @@ Rabbitmq-mail-consumer-server is an independent mail sending server that abstrac
 
 
 ### RabbitMQ Basic Architecture System
-![picture](https://github.com/alperunal92/rabbitmq-mail-consumer-server/master/images/1.PNG)
+![picture](https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/1.png)
 Rabbitmq-mail-consumer-server uses a number of open source projects to work properly:
 
 
@@ -65,7 +65,7 @@ Forget Password Mail:
     appName: 'Test My App',
     forgetTitle: 'Forgot Your Password :(',
     forgetMessage: '<b>nameSurname</b> Forgot Your Password! Let's follow the steps below..',
-    mailIcon: 'https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/5.PNG',
+    mailIcon: 'https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/5.png',
     webSiteLink: 'http://localhost:3000',
     webSiteLinkButton: 'Let's Start',
     warningText: 'If you did not send the password reset request, Please ignore it.',
@@ -83,7 +83,7 @@ Register Mail:
     appName: 'Test My App',
     welcomeTitle: 'Welcome!',
     welcomeMessage: 'It's nice to see you among us <b> nameSurname </b> ! <br/>',
-    mailIcon: 'https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/4.PNG',
+    mailIcon: 'https://github.com/alperunal92/rabbitmq-mail-consumer-server/blob/master/images/4.png',
     webSiteLink: 'http://localhost:3000',
     webSiteLinkButton: 'Let's Start',
     thanksText: 'Thank you for supporting our project!',
