@@ -14,7 +14,7 @@
   "author": "Alper ÜNAL <alper.unal92@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.5.5",
+    "amqplib": "^0.10.9",
     "async-redis": "^1.1.7",
     "bluebird": "^3.7.2",
     "cryptr": "^6.0.2",
